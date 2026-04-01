@@ -1,6 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=750&lines=%3E%3E+WhisperTell.exe;Initializing+secure+channel...;Masking+identity...;Access+Granted+⚡" alt="Typing SVG" />
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- Glitch Layers -->
+  <text x="50%" y="70" text-anchor="middle" fill="#00ff9c" font-size="32" font-family="monospace">
+    WhisperTell
+    <animate attributeName="x" values="400;402;398;400" dur="0.2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="50%" y="70" text-anchor="middle" fill="#ff0033" font-size="32" font-family="monospace" opacity="0.3">
+    WhisperTell
+    <animate attributeName="x" values="400;398;402;400" dur="0.15s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Typing Effect -->
+  <text x="50%" y="110" text-anchor="middle" fill="#39ff14" font-size="16" font-family="monospace">
+    <tspan>
+      > initializing secure channel...
+      <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
+    </tspan>
+    <tspan x="50%" dy="20">
+      > masking identity...
+      <animate attributeName="opacity" values="0;1" begin="2s" dur="2s" fill="freeze"/>
+    </tspan>
+    <tspan x="50%" dy="20">
+      > access granted ⚡
+      <animate attributeName="opacity" values="0;1" begin="4s" dur="2s" fill="freeze"/>
+    </tspan>
+  </text>
+
+  <!-- Cursor Blink -->
+  <rect x="520" y="135" width="10" height="18" fill="#39ff14">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
 
 </div>
 
