@@ -1,9 +1,6 @@
 <div align="center">
 
-# ⚡ WhisperTell // Anonymous Chat
-▒▓█ W H ! $ P 3 R T 3 L L █▓▒
-sy$tem.init() l0ading... ███▒▒▒ wh1sp3r_t3ll.exe c0nn3cting ▒▒▒ acc3$$: GR@NTED ⚡ ▒▒ 0101 // GL!TCH // 0101 ▒▒
-`secure • anonymous • real-time`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=750&lines=%3E%3E+WhisperTell.exe;Initializing+secure+channel...;Masking+identity...;Access+Granted+⚡" alt="Typing SVG" />
 
 </div>
 
